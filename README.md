@@ -6,6 +6,5 @@
 - [ ] Subtraction Operation
 - [ ] Addition Operation
 - [ ] Display result
-- [ ] Report
-> Test data & Test Result
+- [ ] Report > Test data & Test Result
 - [ ] All done!
