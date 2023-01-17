@@ -1,0 +1,8 @@
+.model small
+.stack 200h
+
+.code
+start:
+
+.exit
+end start
